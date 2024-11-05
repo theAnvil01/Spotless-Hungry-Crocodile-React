@@ -1,0 +1,25 @@
+.signin-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.signin-text1 {
+  display: inline-block;
+}
+.signin-text2 {
+  display: inline-block;
+}
+.signin-text3 {
+  display: inline-block;
+}
+.signin-text4 {
+  display: inline-block;
+}
+.signin-text5 {
+  display: inline-block;
+}
+.signin-text6 {
+  display: inline-block;
+}
